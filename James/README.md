@@ -14,4 +14,4 @@ In statistics, scholarship thus far has largely focused on modeling values that 
 
 Previous attempts at modeling these weather events have employed Extreme value theory. However, due to the complex nature of the (posterior) distribution, they have relied on simple random walk Monte Carlo methods to sample from it. In this project, we will focus on spatial extreme value theory, using new Monte Carlo methods to model extreme rain events across the UK. 
 
-At the end of this project, the student will learn the theory behind spatial extreme value theory as well as modern sampling techniques, including interacting particle and adaptive methods. "
+At the end of this project, the student will learn the theory behind spatial extreme value theory as well as modern sampling techniques, including interacting particle and adaptive methods.
