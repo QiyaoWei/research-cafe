@@ -1,4 +1,4 @@
-# research-cafe
+# Research Cafe
 
 ### Projects:
 1. Gareth & Seppe: Boson stars
