@@ -1,6 +1,6 @@
 # research-cafe
 
-### Folders:
+### Projects:
 1. Gareth & Seppe: Boson stars
 2. James: Sampling, Extreme Value Theory
 3. Qiyao: AI/ML, mathematics, finance, medicine
