@@ -6,3 +6,4 @@
 3. Qiyao: AI/ML, mathematics, finance, medicine
 4. Sahib: International relations
 5. Stefan: LLM, code vulnerability
+6. Rosie: Separation Logic, Lean4
